@@ -22,7 +22,7 @@ Theft Probability : The probability that you're not the one driving the car (req
 
 ## How to install
 
-####Steps :
+#### Steps :
 
 1. Get an OBD Scanner : [OBD Tool](https://www.amazon.in/GadgetGuru-Bluetooth-OBD-II-Diagnostic/dp/B00XL9HKQO/ref=sr_1_6?ie=UTF8&qid=1552595067&sr=8-6&keywords=obd)
 2. Change the python script value of `app.run(hostname,port)` to your server's hostname and port. If running on local, it will be `127.0.0.1,5000`
