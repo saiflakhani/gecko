@@ -44,3 +44,17 @@ Theft Probability : The probability that you're not the one driving the car (req
 - Theft Probability : Random Forests
 - Comfort Score : Linear Regression
 
+
+## Credits
+#### Development 
+1. Pranav Patil
+2. Niharika Sachdev
+3. Shubham Kokate
+4. Deptii Chaudhari
+
+#### Ideation
+1. Shivom Thakkar
+2. Saloni Goel
+3. Vishva Iyer
+4. Sabarinath S
+5. Ravleen
