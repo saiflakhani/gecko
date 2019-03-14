@@ -7,9 +7,9 @@ It sounds like a lizard, but in reality, GECKO helps you with your driving. It a
 
 This project has three parts :
 
-The torque app : Torque App
-The GECKO app : GECKO App
-The flask server script : Script
+The torque app : Torque App [Torque](https://play.google.com/store/apps/details?id=org.prowl.torque&hl=en_IN)
+The GECKO app : GECKO App [GECKO](/Android)
+The flask server script : [Script](/Python)
 
 ## What it does
 
